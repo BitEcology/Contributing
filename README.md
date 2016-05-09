@@ -1,6 +1,6 @@
 # Contributing
 
-![Herding cats...](../images/herding-cats-cartoon.jpg)
+![Herding cats...](images/herding-cats-cartoon.jpg)
 
 Guidelines for contributing software to a project. 
 
