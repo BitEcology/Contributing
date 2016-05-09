@@ -1,4 +1,5 @@
-# Contributing
+Contributing
+============
 
 ![Herding cats...](images/herding-cats-cartoon.jpg)
 
