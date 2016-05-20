@@ -9,3 +9,7 @@ Getting going gwith git!
 4. Go into your repository on your local machine and create a README file that just says "Hello Git!"
 5. Share this new file by "pushing" your local changes to the repository up to github (https://help.github.com/articles/adding-a-file-to-a-repository-from-the-command-line/)
 6. Go to your repository on github and take a look at the changes (https://help.github.com/articles/differences-between-commit-views/)
+
+Now get a feel for the whole process of using git and github:
+
+https://guides.github.com/activities/hello-world/
